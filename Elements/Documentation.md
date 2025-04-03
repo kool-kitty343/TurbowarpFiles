@@ -11,7 +11,7 @@
 [Docs](https://docs.google.com/document/d/1Z4X95YlCsDZuCFGNxwAMSGqgGXIRIPvX7bvVUGdAhW0/edit?tab=t.zfewleqmu2gs#heading=h.hy8tb6ej4kq2)
 <br>
 <em>
--Campaigns & Characters<br>
+-Main Menu Interface<br>
 -Character Creation<br>
 -Character Parts<br>
 -Equipment<br>
