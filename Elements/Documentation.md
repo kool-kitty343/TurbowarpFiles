@@ -10,9 +10,11 @@
 </em>
 [Docs](https://docs.google.com/document/d/1Z4X95YlCsDZuCFGNxwAMSGqgGXIRIPvX7bvVUGdAhW0/edit?tab=t.zfewleqmu2gs#heading=h.hy8tb6ej4kq2)
 <br>
--Campaigns & Characters
--Character Creation
--Character Parts
--Equipment
--Spell Mechanics
--Economy
+<em>
+-Campaigns & Characters<br>
+-Character Creation<br>
+-Character Parts<br>
+-Equipment<br>
+-Spell Mechanics<br>
+-Economy<br>
+</em>
