@@ -14,3 +14,4 @@ Inside each folder is:<br>
 
 <h3>Elements</h3>
 
+Elements is a D&D like game, a ttrpg, but as the magic system is incredibly complex, it has a program to help you play it.
