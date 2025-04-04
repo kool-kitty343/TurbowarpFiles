@@ -12,4 +12,4 @@ Inside each folder is:<br>
 <h1>How do I get <em>my</em> project on warpdrive?</h1>
 
 Email me <a href="mailto:1011mikebaker@gmail.com">Here</a> to get your project added, add people to work on your project, or to remove your project.<br>
-When making a request add your project, be sure to add your github username.
+When making a request to add your project, be sure to add your github username.
