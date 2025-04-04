@@ -9,9 +9,6 @@ Inside each folder is:<br>
 - a folder with finished program versions
 </em>
 
-<h1>Projects</h1>
+<h1>How do I get <em>my</em> project on warpdrive?</h1>
 
-
-<h2>Elements</h2>
-
-Elements is a D&D like game, a ttrpg, but as the magic system is incredibly complex, it has a program to help you play it.
+<a href="mailto:1011mikebaker@gmail.com">Email Me</a>
