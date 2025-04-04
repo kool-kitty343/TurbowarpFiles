@@ -11,4 +11,4 @@ Inside each folder is:<br>
 
 <h1>How do I get <em>my</em> project on warpdrive?</h1>
 
-<a href="mailto:1011mikebaker@gmail.com">Email Me</a>
+Email me <a href="mailto:1011mikebaker@gmail.com?subject=Adding%20Warpdrive%20Project">Here</a>
