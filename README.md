@@ -11,4 +11,4 @@ Inside each folder is:<br>
 
 <h1>How do I get <em>my</em> project on warpdrive?</h1>
 
-Email me <a href="mailto:1011mikebaker@gmail.com?subject=Adding%20Warpdrive%20Project&body=Github%20Username:%20(Put%20name%20here)%0D%0AProject$20Name:%20(Put%20name%20here)">Here</a>, and fill in the blanks.
+Email me <a href="mailto:1011mikebaker@gmail.com?subject=Adding%20Warpdrive%20Project&body=Github%20Username:%20(Put%20name%20here)%0D%0AProject%20Name:%20(Put%20name%20here)">Here</a>, and fill in the blanks.
