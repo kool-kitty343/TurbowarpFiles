@@ -1,4 +1,4 @@
-<center><h1>gmonsterss</h1></center>
+<h1><p align=center>gmonsterss</p></h1>
 
 <h1>Documentation</h1>
 
