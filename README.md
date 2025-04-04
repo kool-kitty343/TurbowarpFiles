@@ -11,6 +11,5 @@ Inside each folder is:<br>
 
 <h1>How do I get <em>my</em> project on warpdrive?</h1>
 
-Email me <a href="mailto:1011mikebaker@gmail.com?subject=Adding%20Project%20to%20Warpdrive&body=Project%20Name:%20(Put%20name%20here)%0D%0AGithub%20Username:%20(Put%20name%20here)">Here</a> to get your project added.
-
-If you already have a project on Warpdrive and would like to add people, Email me <a href="mailto:1011mikebaker@gmail.com?subject=Adding%20Users%20to%20my%0Warpdrive%20Project&body=Project%20Name:%20(Put%20name%20here)%0D%0AGithub%20Usernames:%20(Put%20names%20here)">Here</a>.
+Email me <a href="mailto:1011mikebaker@gmail.com">Here</a> to get your project added, add people to work on your project, or to remove your project.<br>
+When making a request add your project, be sure to add your github username.
