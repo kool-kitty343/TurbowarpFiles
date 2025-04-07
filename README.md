@@ -3,9 +3,9 @@
 Each Folder is a different program.
 Inside each folder is:<br>
 <em>
-- the sb3 file for editing the program in a scratch mod<br>
-- a md file with links to documentation<br>
-- a md file with the versions and their changelogs<br>
+- the .sb3 file for editing the program in a scratch mod<br>
+- a .md file with links to documentation<br>
+- a .md file with the versions and their changelogs<br>
 - a folder with finished program versions
 </em>
 
@@ -18,7 +18,7 @@ When making a request to add your project, be sure to add your github username.
 
 <h2>Step 2 - Making the Project</h2>
 
-Make a project in a scratch mod and add the file in the project folder created for your project<br>
+Make a project in a scratch mod that supports .sb3 files and add the file in the project folder created for your project<br>
 
 <h2>Step 3 - Packaging for Deployment</h2>
 
