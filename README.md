@@ -22,7 +22,7 @@ Make a project in a scratch mod and add the file in the project folder created f
 
 <h2>Step 3 - Packaging for Deployment</h2>
 
-In your project folder should be a folder named "".<br>
+In your project folder should be a folder named "Packages".<br>
 Put packaged versions in here.<br>
 
 
